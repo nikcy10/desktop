@@ -18,4 +18,3 @@ disp("RUNNING PROGRAM")
 figure(1), imshow(uint8(f)), title("OG IMAGE")
 figure(2), imshow(uint8(gx)), title("FILTERED IMAGE with X Grad")
 figure(3), imshow(uint8(gy)), title("FILTERED IMAGE with Y Grad")
-
